@@ -1,6 +1,9 @@
 # Book-Recommendation
 Book Recommendation Site develop with Sentiment Analysis using Node.js and Vue.js
 
+###
+You can find the video introducing the project here: https://youtu.be/Diyfb_yqIo4?si=zDll7qXQsFo1q0Rj
+
 ## SUMMARY
 
 In this project, the design and implementation of a system to provide personalized book recommendations and perform emotional analysis of book comments were examined in detail. In particular, two key components were focused on: the user-based collaborative filtering algorithm and sentiment analysis.
