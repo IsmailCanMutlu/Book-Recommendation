@@ -48,33 +48,33 @@ In this study, the "turkish_product_reviews" dataset from Hugging Face was used 
 #### 1. Clone the Project
 - Open the terminal and navigate to the directory where you want to clone the project.
 - Clone the project:
-  bash
+  ```bash
   git clone <project_git_url>
   cd <project_folder_name>
-  
+  ```
 #### 2. Run the Project with Docker
 Navigate to the root directory of the project in the terminal.
 Start the project using Docker Compose:
-bash
+```bash
 docker-compose up
-
+```
 #### 3. Set Up the Node.js Environment
 To run the Vue.js client, go to the vue-client directory and perform the necessary steps in the terminal:
 
-bash
+```bash
 cd vue-client
 npm install
 npm run serve
-
+```
 #### 4. Set Up the API and Server Side
 To start the Express.js API, execute the necessary steps in the terminal:
-bash
+```bash
 # Navigate back to the main directory
 cd ../
 # Start the API
 npm install
 npm start
-
+```
 #### 5. Database
 We've started the MySQL database via Docker. If you need to modify any settings, you can edit the environment variables in the docker-compose.yml file.
 ### 6. Accessing the Project
