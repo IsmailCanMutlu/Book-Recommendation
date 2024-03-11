@@ -1,5 +1,5 @@
 # Book-Recommendation
-Book Recommendation Site develop with Sentiment Analysis using Node.js and Vue.js
+Book Recommendation Site develop with Node.js and Vue.js, using User-Based Collaborative Filtering
 
 ###
 You can find the video introducing the project here: https://youtu.be/Diyfb_yqIo4?si=zDll7qXQsFo1q0Rj
